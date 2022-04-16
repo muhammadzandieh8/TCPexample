@@ -1,0 +1,36 @@
+C:\Users\m.zandieh\source\repos\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe.config
+C:\Users\m.zandieh\source\repos\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe
+C:\Users\m.zandieh\source\repos\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.pdb
+C:\Users\m.zandieh\source\repos\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.zandieh\source\repos\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csproj.CoreCompileInputs.cache
+C:\Users\m.zandieh\source\repos\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.exe
+C:\Users\m.zandieh\source\repos\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.pdb
+F:\projects\Educational Apps\tcpexample-master\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe.config
+F:\projects\Educational Apps\tcpexample-master\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe
+F:\projects\Educational Apps\tcpexample-master\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.pdb
+F:\projects\Educational Apps\tcpexample-master\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csproj.AssemblyReference.cache
+F:\projects\Educational Apps\tcpexample-master\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csproj.CoreCompileInputs.cache
+F:\projects\Educational Apps\tcpexample-master\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.exe
+F:\projects\Educational Apps\tcpexample-master\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.pdb
+C:\Users\m.zandieh\Desktop\tcpexample-master\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe.config
+C:\Users\m.zandieh\Desktop\tcpexample-master\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe
+C:\Users\m.zandieh\Desktop\tcpexample-master\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.pdb
+C:\Users\m.zandieh\Desktop\tcpexample-master\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csprojResolveAssemblyReference.cache
+C:\Users\m.zandieh\Desktop\tcpexample-master\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csproj.CoreCompileInputs.cache
+C:\Users\m.zandieh\Desktop\tcpexample-master\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.exe
+C:\Users\m.zandieh\Desktop\tcpexample-master\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.pdb
+E:\Zandieh\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe.config
+E:\Zandieh\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe
+E:\Zandieh\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.pdb
+E:\Zandieh\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csprojResolveAssemblyReference.cache
+E:\Zandieh\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csproj.CoreCompileInputs.cache
+E:\Zandieh\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.exe
+E:\Zandieh\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.pdb
+F:\Zandieh\Creative\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe.config
+F:\Zandieh\Creative\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.exe
+F:\Zandieh\Creative\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\bin\Debug\ConsoleApptcp.pdb
+F:\Zandieh\Creative\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csproj.AssemblyReference.cache
+F:\Zandieh\Creative\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csproj.SuggestedBindingRedirects.cache
+F:\Zandieh\Creative\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.csproj.CoreCompileInputs.cache
+F:\Zandieh\Creative\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.exe
+F:\Zandieh\Creative\TCPexample\tcpexample\ConsoleApptcp\ConsoleApptcp\obj\Debug\ConsoleApptcp.pdb
